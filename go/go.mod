@@ -1,3 +1,3 @@
-module github.com/mknapphrt/test_lib/lib
+module github.com/mknapphrt/test_lib/go
 
 go 1.22.0
